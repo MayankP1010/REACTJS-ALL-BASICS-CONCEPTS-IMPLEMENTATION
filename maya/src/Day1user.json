@@ -1,0 +1,20 @@
+[
+{
+    "Name":"Mayank",
+    "Password":"Admin",
+    "Confirm Password":"Admin",
+    "Phone":"9421032532"
+},
+{
+    "Name":"Manthan",
+    "Password":"Admi",
+    "Confirm Password":"Admi",
+    "Phone":"942103253"
+},
+{
+    "Name":"Mohan",
+    "Password":"Adm",
+    "Confirm Password":"Adm",
+    "Phone":"94210325"
+}
+]
